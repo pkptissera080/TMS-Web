@@ -1,2 +1,2 @@
-# TMS-Web
-Timetable Management System in php
+# TMS
+Timetable Management System
